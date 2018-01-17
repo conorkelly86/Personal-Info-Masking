@@ -9,7 +9,7 @@ https://stackoverflow.com/questions/45009700/masking-fields-duplications
 
 There are 3 files needed.
 
-First: The Date Integration file that contains the un-masked personal information. Personal-Info.svd
+First: The Date Integration file that contains the un-masked personal information. Personal-Info-Original.svd
 
 Second: Powershell Script file that took in the first un-masked data file.
 
