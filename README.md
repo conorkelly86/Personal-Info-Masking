@@ -6,3 +6,11 @@ The following script was created to mask private information in date files that 
 Powershell was a new language I researched to create this script. I used the StackOverflow community to help me with this script.
 
 https://stackoverflow.com/questions/45009700/masking-fields-duplications
+
+There are 3 files needed.
+
+First: The Date Integration file that contains the un-masked personal information. Personal-Info.svd
+
+Second: Powershell Script file that took in the first un-masked data file.
+
+Third: When the Powershell Script is run it will output the Personal-Info-Output.svd file with the masked fields.
